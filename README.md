@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rose Tebogo Ndhlovu.
 ### Software Developer in training
 
-- 🔭 I’m currently enrolled in the SheCodes Foundation Workshop.
+- 🔭 I’m currently enrolled in the SheCodes Pro Workshop.
 - 🌱 I’m currently learning JS in context.
 - 👯 I’m looking to collaborate on any JS projects.
 - 🤔 I’m looking for help with Software Development job opportunities.
