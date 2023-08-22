@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rose Tebogo Ndhlovu.
-### Entry-level Software Developer 👩‍💻
+### Software Developer Student 👩‍💻
 
 - 🔭 I’m currently enrolled in the SheCodes Pro Workshop & ALX SE Program.
 - 🌱 I’m currently learning JS in context.
