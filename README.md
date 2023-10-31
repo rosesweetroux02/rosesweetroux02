@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Rose Tebogo Ndhlovu.
 ### Software Development Student 👩‍💻
 
-- 🔭 I’m currently enrolled in the SheCodes Pro Workshop & ALX SE Program.
-- 🌱 I’m currently learning C .
+- 🔭 I’m currently enrolled in the SheCodes Pro Workshop.
+- 🌱 I’m currently learning JavaScript in context.
 - 👯 I’m looking to collaborate on any Web development & design projects.
 - 🤔 I’m looking for help with Software Development job opportunities.
 - 📫 How to reach me: https://www.linkedin.com/in/rose-tebogo-ndhlovu-305905208/ 
