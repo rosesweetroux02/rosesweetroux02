@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Rose Tebogo Ndhlovu.
-### Web Development Student 👩‍💻
+### Frontend Web Developer 👩‍💻
 
 - 🔭 I’m currently enrolled in the SheCodes Pro Workshop.
-- 🌱 Learning JavaScript in context.
+- 🌱 Learning React in context.
 - 👯 I’m looking to collaborate on any Web development & design projects.
 - 🤔 I’m looking for help with Web Development job opportunities / learnership / internships.
 - 📫 How to reach me: https://www.linkedin.com/in/rose-tebogo-ndhlovu-305905208/ 
