@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rose Tebogo Ndhlovu.
-### Web Developer 👩‍💻
+### Web Developer | Network & Infrastructure Intern👩‍💻
 
 - 🎓 I recently graduated from SheCodes Plus Web Development Bootcamp.
 - 🔭 I’m currently enrolled in the SheCodes Pro Workshop.
