@@ -2,7 +2,7 @@
 ### Jr Network Engineer | Software Developer | Microsoft Office Specialist: Excel Associate Certified | CompTIA Cloud+ Certified | Microsoft Azure Certified👩‍💻
 
 - 🎓 SheCodes graduate: Web Development.
-- 🔭 I’m currently gaining the following skills: System Support | Business Analysis | C# Programming | WordPress Development
+- 🔭 I’m currently gaining the following skills / learning: System Support | Business Analysis | C# Programming | WordPress Development
 - 👩🏽‍💻 Enrolled in System Support Qualification.
 - 👯 I’m looking to collaborate on any development & design projects.
 - 📫 How to reach me: https://www.linkedin.com/in/rose-tebogo-ndhlovu-305905208/ 
