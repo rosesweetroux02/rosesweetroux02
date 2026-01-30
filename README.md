@@ -2,7 +2,7 @@
 ### Software Engineer |  Network & Infrastructure Engineer | Microsoft Office Specialist: Excel Associate Certified | CompTIA Cloud+ Certified | Microsoft Azure Certified👩‍💻
 
 - 🎓 SheCodes graduate: Software Development.
-- 🔭 I’m currently gaining working as a SWE | C# Programming 
+- 🔭 I’m currently working as a Software Eengineer | C# Programming | .Net
 - 👩🏽‍💻 Enrolled in Harvard CS50 Course for Professionals.
 - 👯 I’m looking to collaborate on any development & design projects.
 - 📫 How to reach me: https://www.linkedin.com/in/rose-tebogo-ndhlovu-305905208/ 
