@@ -7,4 +7,4 @@
 - 🚀 Exploring opportunities to grow and collaborate in networking and infrastructure.
 - 📫 How to reach me: https://www.linkedin.com/in/rose-tebogo-ndhlovu-305905208/ 
 - 😄 Pronouns: She/Her
--⚡ Fun fact: I’m an old-school Hip-Hop & R&B head. 🎧 2Pac, Snoop Dogg, Dr. Dre, Jay-Z, Eminem, Joe, Brian McKnight, Tamia, Mary J. Blige, Faith Evans, Gladys Knight… the classics just hit different. 😂🔥
+- ⚡ Fun fact: I’m an old-school Hip-Hop & R&B head. 🎧 2Pac, Snoop Dogg, Dr. Dre, Jay-Z, Eminem, Joe, Brian McKnight, Tamia, Mary J. Blige, Faith Evans, Gladys Knight… the classics just hit different. 😂🔥
